@@ -1,0 +1,16 @@
+{
+  "name": "evaluaciones-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend API para el sistema de evaluaciones",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
